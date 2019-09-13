@@ -2,7 +2,7 @@ Project-2
 Handwriting comparison using Linear Regression, Logistic Regression and  Neural Network.
 ================
 Manish Reddy Challamala,
-November 2, 2018
+November 2, 2018 ,manishre@buffalo.edu
 
 ## Abstract
 To train a model to compare the hand written samples a known and
