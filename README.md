@@ -4,6 +4,9 @@ Handwriting comparison using Linear Regression, Logistic Regression and  Neural 
 Manish Reddy Challamala,
 November 2, 2018 ,manishre@buffalo.edu
 
+For detailed explaination, please visit the below link:
+[link for report pdf](https://github.com/manish216/Project-2/blob/master/proj2.pdf)
+
 ## Abstract
 To train a model to compare the hand written samples a known and
 questioned writer using Linear regression, Logistic regression and Neural
@@ -248,38 +251,7 @@ from same pair and 791 from diffpair file]
   The graph results are available here:
   [Results](https://github.com/manish216/Project-2/blob/master/proj2.pdf)
 
-## 7 Conclusion:
-
-From the above table[1]: Experimental Results.
-
-1. For Human observed concatenated dataset, the accuracy of the neural
-    network model is high compared to logistic and linear regression whose
-    values are ranging at 98% , 83% , 62% respectively.Similarly for GSC
-    concatenated Dataset, accuracy of the neural network model is high com-
-    pared to logistic and linear regression models ranging at 97%, 94%, 60%
-    respectively.
-2. So while Comparing the Human and GSC concatenated dataset I conclude
-    that the overall accuracy of the neural network model is high compared
-    to Logistic regression and Linear Regression.
-3. On other hand,For Human observed subtracted dataset, the accuracy of
-    the neural network model is high compared to logistic and linear regression
-    whose values are ranging at 79% , 60% , 51% respectively.Similarly for
-    GSC subtracted Dataset, accuracy of the neural network model is high
-    compared to logistic and linear regression models ranging at 97%, 93%,
-    52% respectively.
-4. So while Comparing the Human and GSc subtracted dataset I conclude
-    that the overall accuracy of the neural network model is high compared
-    to Logistic regression and Linear Regression.
-5. From my observations, I conclude that time complexity of the neural net-
-    work model is less compared to logistic regression model. Similarly the
-    time complexity for logistic regression model is less compared to liner re-
-    gression model.
 
 
-## 8 References:
-
-1. https://beckernick.github.io/logistic-regression-from-scratch/
-2. https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-
-    124c5636b8ac
 
 
